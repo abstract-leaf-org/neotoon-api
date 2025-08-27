@@ -1,4 +1,4 @@
-package com.github.abstract_leaf_org.neotoon_api;
+package com.github.abstract_leaf_org.neotoon_api.Infrastructure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
