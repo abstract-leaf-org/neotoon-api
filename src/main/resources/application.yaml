@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: neotoon-api
+  output:
+    ansi:
+      enabled: always
+  profiles:
+    active: dev
